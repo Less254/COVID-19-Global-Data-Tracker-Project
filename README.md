@@ -77,19 +77,19 @@ covid19-global-tracker/
 Key Insights and Reflections
 Pandemic Patterns
 
-Identified distinct waves of infection across different regions
-Documented correlation between policy implementation and case reduction
-Analyzed vaccination rollout impact on mortality rates
+-Identified distinct waves of infection across different regions
+-Documented correlation between policy implementation and case reduction
+-Analyzed vaccination rollout impact on mortality rates
 
 Technical Challenges
 
-Managing and cleaning inconsistent data reporting from different countries
-Creating scalable visualizations that work with varying data densities
-Balancing comprehensive analysis with performance considerations
+-Managing and cleaning inconsistent data reporting from different countries
+-Creating scalable visualizations that work with varying data densities
+-Balancing comprehensive analysis with performance considerations
 
 Future Improvements
 
-Implement automated data updates from public health APIs
-Add predictive modeling for trend forecasting
-Develop a web dashboard for non-technical users
-Include demographic analysis of vulnerable populations
+-Implement automated data updates from public health APIs
+-Add predictive modeling for trend forecasting
+-Develop a web dashboard for non-technical users
+-Include demographic analysis of vulnerable populations
